@@ -42,6 +42,17 @@ Blank passworld, I didn't expect that.
 
 
 
+![image](https://github.com/jim091418/htb_writeup/assets/67756786/20d4f463-ca4b-4e88-bf0e-eacb5cfbdb08)
+
+![image](https://github.com/jim091418/htb_writeup/assets/67756786/d87ec3e6-03fe-45d1-9f4f-5ab18900508f)
+
+![image](https://github.com/jim091418/htb_writeup/assets/67756786/24369632-2997-42e6-80b7-fcb6e687a81c)
+
+![image](https://github.com/jim091418/htb_writeup/assets/67756786/f1528557-faf1-41b9-950d-89fe7f982738)
+
+![image](https://github.com/jim091418/htb_writeup/assets/67756786/ff2d6518-8e71-4954-80aa-bdded526cff7)
+
+![image](https://github.com/jim091418/htb_writeup/assets/67756786/28b3d16c-6aab-409b-81e3-a947855b46d9)
 
 
 
