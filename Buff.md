@@ -27,6 +27,17 @@ I found user flag very easy, it happend to old version with RCE.But root flag ne
 
 ###  Root Flag
 
-- [x] Step 1
+- [x] Recon
 
-xxxxxxxxxxx
+![image](https://github.com/jim091418/htb_writeup/assets/67756786/7d3b3339-e7b2-46fa-a124-e1a634cdffbf)
+
+![image](https://github.com/jim091418/htb_writeup/assets/67756786/758d995c-01af-4603-8190-e5d4426e8a89)
+
+
+- [x] exploit
+![image](https://github.com/jim091418/htb_writeup/assets/67756786/1ea8db94-06e4-4275-b2ac-4506867b2baf)
+
+![image](https://github.com/jim091418/htb_writeup/assets/67756786/5d670420-4c52-4a16-9404-c0c69846ce14)
+
+![image](https://github.com/jim091418/htb_writeup/assets/67756786/a1cb9014-c185-4fe4-9d49-e7628cf91507)
+
